@@ -4,10 +4,24 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: "Edu TAS Beginner", serif;
+}
+
 header{
     background-image: url('../img/wall.png');
-    display: flex;
-    align-items: center;
     min-height: 120px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    padding: 10px;
+}
+
+main{
+    background-image: url('../img/cork.png');
+    min-height: 700px;
 }
