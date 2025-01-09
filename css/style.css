@@ -6,7 +6,7 @@
 }
 /* GENERAL */
 body{
-    font-family: "Edu TAS Beginner", serif;
+    font-family: "Edu TAS Beginner", serif !important;
 }
 
 /* HEADER */
